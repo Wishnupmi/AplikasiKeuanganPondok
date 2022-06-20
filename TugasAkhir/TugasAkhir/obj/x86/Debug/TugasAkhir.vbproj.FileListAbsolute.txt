@@ -1,0 +1,301 @@
+E:\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+E:\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+E:\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+E:\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+E:\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+D:\update Tugas Akhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+E:\26-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+E:\26-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+E:\26-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+E:\26-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+E:\26-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+D:\update Tugas Akhir\27-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAktivitas.resources
+E:\27-04-2022\TugasAkhir4\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkun.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAktivitas.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkun.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+D:\update Tugas Akhir\28-04-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkunKredit.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAktivitas.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkun.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkunKredit.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+E:\29-04-2022\TugasAkhir\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAkhirBulan.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAktivitas.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkun.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkunKredit.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAkhirBulan.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+D:\update Tugas Akhir\08-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAktivitas.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkun.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkunKredit.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAkhirBulan.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\10-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+E:\11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+E:\11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+E:\11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+E:\11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAktivitas.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkun.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkunKredit.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAkhirBulan.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmArusKas.resources
+E:\11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapArusKas.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAktivitas.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmArusKas.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkun.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkunKredit.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmKasKeluar.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmKasMasuk.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAkhirBulan.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapArusKas.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+D:\update Tugas Akhir\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.exe
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.xml
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.pdb
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAktivitas.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmArusKas.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkun.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCariAkunKredit.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmCetakNeraca.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmDataUser.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputAkun.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputSantri.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmInputTransaksi.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmKasKeluar.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmKasMasuk.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLoading.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmLogin.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.frmAkhirBulan.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapAktivitas.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapArusKas.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasKeluar.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapKasMasuk.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.LapPosisiKeuangan.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.MDIParent1.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.Resources.resources
+E:\Terbaru 11-05-2022\TugasAkhir\TugasAkhir\obj\x86\Debug\TugasAkhir.vbproj.GenerateResource.Cache
