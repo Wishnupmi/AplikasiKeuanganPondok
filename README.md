@@ -6,3 +6,5 @@ Program Aplikasi Keuangan Pondok Pesantren
 #Channel Youtube Wishnu Programming : <br>
 https://youtu.be/jzvn9RVPRd8
 
+#Cara Download <br>
+git clone https://github.com/Wishnupmi/AplikasiKeuanganPondok.git
