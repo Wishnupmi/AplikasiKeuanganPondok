@@ -6,7 +6,11 @@ Program Aplikasi Keuangan Pondok Pesantren
 #Channel Youtube Wishnu Programming : <br>
 https://youtu.be/jzvn9RVPRd8
 
-# Cara Download <br>
+# Persiapan Installasi <br>
+- Instal Terlebih dahulu VB .Net 2010
+- Instal SQL Server 2008r2 sebagai Database nya
+
+# Cara Download Source Code <br>
 - Masuk ke dalam Folder kosong yang sudah Anda Siapkan
 - Klik Kanan Pilih Git Bash
 - Lakukan Download dengan menggunakan perintah : <br>git clone https://github.com/Wishnupmi/AplikasiKeuanganPondok.git
