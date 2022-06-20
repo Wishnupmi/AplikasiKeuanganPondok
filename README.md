@@ -7,4 +7,6 @@ Program Aplikasi Keuangan Pondok Pesantren
 https://youtu.be/jzvn9RVPRd8
 
 #Cara Download <br>
-git clone https://github.com/Wishnupmi/AplikasiKeuanganPondok.git
+- Masuk ke dalam Folder kosong yang sudah Anda Siapkan
+- Klik Kanan Pilih Git Bash
+- Lakukan Download dengan menggunakan perintah : <br>git clone https://github.com/Wishnupmi/AplikasiKeuanganPondok.git
