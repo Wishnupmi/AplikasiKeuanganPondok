@@ -9,10 +9,9 @@ https://youtu.be/jzvn9RVPRd8
 # Persiapan Installasi <br>
 - Instal Terlebih dahulu VB .Net 2010
 - Instal SQL Server 2008r2 sebagai Database nya
-- Install Node Js
+- Install Node Js untuk download source code
 
 # Cara Download Source Code <br>
-- Install Node js
 - Masuk ke dalam Folder kosong yang sudah Anda Siapkan
 - Klik Kanan Pilih Git Bash
 - Lakukan Download dengan menggunakan perintah : <br>git clone https://github.com/Wishnupmi/AplikasiKeuanganPondok.git
